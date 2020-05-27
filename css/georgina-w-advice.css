@@ -1,0 +1,29 @@
+body {
+	background: #e6ffe6;
+	position: absolute;
+	font-family: 'Varela', sans-serif
+}
+.advice{
+	color:darkslategray;
+	padding-top: 20px;
+	margin-left: 30px;	
+}
+
+h1{
+	text-align: center;
+	padding: 30px;
+	color: darkslategrey;
+	font-style: oblique;
+}
+h4{
+	text-decoration: underline;
+
+}
+
+footer{
+	font-size: 10px;
+	font-style: italic;
+	text-align: justify;
+	padding: 50px;
+		
+}
